@@ -52,4 +52,4 @@ $ spotman metadata --attribute title
 
 <h2>Contributing</h2>
 
-Contributions are absolutely welcome. Spotman is built with extensibility in mind, and it is relatively easy to create new commands. If you plan on doing so, a helpful resource for this is the [MPRIS](https://specifications.freedesktop.org/mpris-spec/latest/) D-Bus Interface Specification.
+Contributions are always welcome. Spotman is built with extensibility in mind, and it is relatively easy to create new commands. If you plan on doing so, a helpful resource for this is the [MPRIS](https://specifications.freedesktop.org/mpris-spec/latest/) D-Bus Interface Specification.
