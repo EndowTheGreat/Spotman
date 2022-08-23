@@ -45,7 +45,7 @@ Flags:
   -h, --help               help for metadata
 ```
 
-An example of this would look like this:
+An example of this would look like:
 ```
 $ spotman metadata --attribute title
 ```
